@@ -19,6 +19,6 @@
 * Модуль 04 / Module 04
   - Базовый SQL / Basic SQL - Project_13
   - Компьютерное зрение / Computer vision - Project_14
-  - Практика обучения нейронных сетей / Neural Network Training practice - Project_15
-  - Рекомендации и обучение без учителя / Unsupervised learning - Project_16
+  - Практика обучения нейронных сетей / Neural Network Training practice 
+  - Рекомендации и обучение без учителя / Unsupervised learning 
 * Выпускной проект / Final project - Project_final
