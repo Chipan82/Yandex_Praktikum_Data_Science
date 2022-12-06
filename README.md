@@ -15,28 +15,5 @@
 | Численные методы (градиентный бустинг) | Модель для определения стоимости автомобилей на основании технических характеристик, комплектаций и исторических данных| - pandas - numpy - sklearn - seaborn - catboost - lgbm - time | Выполнено |
 | Временные ряды | Прогноз количества заказов такси на следующий час на основании исторической информации| - python - pandas - numpy - sklearn - statsmodels - matplotlib - seaborn- lgbm - time | Выполнено |
 | Машинное обучение для текстов | Классификация комментариев на позитивные и негативные. В распоряжении набор данных с разметкой о токсичности сообщений| - python - pandas - numpy - sklearn - nltk - matplotlib - seaborn | Выполнено |
-| Компьютерное зрение| Классификация комментариев на позитивные и негативные. В распоряжении набор данных с разметкой о токсичности сообщений| - python - pandas - numpy - sklearn - nltk - matplotlib - seaborn | Выполнено |
-
-
-## Содержание: / Content:
-* Модуль 01 / Module 01
-  - Предобработка данных / Data Processing - Project_01
-  - Исследовательский анализ данных / Exploratory data analysis - Project_02
-  - Статистический анализ данных / Statistical analysis of data - Project_03
-  - Сборный проект / Common project - Project_04
-* Модуль 02 / Module 02
-  - Введение в машинное обучение / Introduction to machine learning - Project_05
-  - Обучение с учителем / Supervised learning - Project_06
-  - Машинное обучение в бизнесе / Machine learning in business - Project_07
-  - Сборный проект / Common project - Project_08
-* Модуль 03 / Module 03
-  - Линейная алгебра / Linear algebra - Project_09
-  - Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting) - Project_10
-  - Временные ряды / Time series - Project_11
-  - Машинное обучение для текстов / Machine learning for texts - Project_12
-* Модуль 04 / Module 04
-  - Базовый SQL / Basic SQL - Project_13
-  - Компьютерное зрение / Computer vision - Project_14
-  - Практика обучения нейронных сетей / Neural Network Training practice 
-  - Рекомендации и обучение без учителя / Unsupervised learning 
-* Выпускной проект / Final project - Project_final
+| Компьютерное зрение| Внедрение системы компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов| - python - pandas - seaborn - tensorflow | Выполнено |
+| Выпускной проект| Прогнозирование оттока клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия.| - python - pandas - numpy - seaborn - sklearn - xgboost - catboost - lgbm | Выполнено |
